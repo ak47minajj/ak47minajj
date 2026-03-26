@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome]! 👋
 
-<!--
-**ak47minajj/ak47minajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=thicker&color=6a0dad&height=200&section=header&text=Bem-vindo!&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-Here are some ideas to get you started:
+### 👾 Sobre mim
+Sou um desenvolvedor focado em criar soluções eficientes e elegantes. Atualmente estou aprimorando minhas habilidades em desenvolvimento de software e explorando novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalhando em: **[Nome do seu projeto principal]**
+- 🌱 Estudando: **React Native, Node.js e APIs de automação**
+- ⚡ Curiosidade: Apaixonado por teclados mecânicos e setups minimalistas.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias que utilizo no meu dia a dia, todas padronizadas com o tema roxo:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=6a0dad" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=240046" />
+  <img src="
