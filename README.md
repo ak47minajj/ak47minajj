@@ -1,7 +1,6 @@
 <h1 align="center">Oi 👋, sou AK47MINAJJ</h1>
 <h3 align="center">Dev fullstack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak47minajj&label=Profile%20views&color=0e75b6&style=flat" alt="ak47minajj" /> </p>
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
