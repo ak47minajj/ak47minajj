@@ -1,8 +1,5 @@
 # Olá, eu sou AK47MINAJJ! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicker&color=6a0dad&height=200&section=header&text=Bem-vindo!&fontSize=70&animation=fadeIn&fontColor=ffffff" />
-</p>
 
 ### 👾 Sobre mim
 Sou um desenvolvedor focado em criar soluções eficientes e elegantes. Atualmente estou aprimorando minhas habilidades em desenvolvimento de software e explorando novas tecnologias.
